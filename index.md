@@ -77,7 +77,7 @@ style: |
 </div>
 </marquee>
 
-<b>Varya Stepanova</b>, Design Systems Expert / [varya.me](http://varya.me)
+<b>Varya Stepanova</b>, Design Systems Expert / [varya.me](http://varya.me) 
 {: .author }
 @ [Patterns Day](https://patternsday.com/), June 28<sup>th</sup>, 2019. Brighton, England
 {: .event }
